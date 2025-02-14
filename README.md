@@ -5,10 +5,10 @@ Welcome to Acadbot, a centralized platform designed to provide syllabus-verified
 
 ### Features
 
--**Syllabus-Based Study Materials**: Get access to study materials and exam papers uploaded per syllabus schedule.
--**Institution-Specific AI Chatbot**: Ask academic queries and receive responses from a chatbot trained on prescribed textbooks and syllabus materials.
--**Smart Query Resolution**: Acadbot fetches answers from university-prescribed resources, ensuring alignment with evaluation criteria.
--**Efficient Search & Retrieval**: Uses AI-powered semantic search to provide relevant answers based on syllabus-based text embeddings.
+- **Syllabus-Based Study Materials**: Get access to study materials and exam papers uploaded per syllabus schedule.
+- **Institution-Specific AI Chatbot**: Ask academic queries and receive responses from a chatbot trained on prescribed textbooks and syllabus materials.
+- **Smart Query Resolution**: Acadbot fetches answers from university-prescribed resources, ensuring alignment with evaluation criteria.
+- **Efficient Search & Retrieval**: Uses AI-powered semantic search to provide relevant answers based on syllabus-based text embeddings.
 
 ### Prerequisites
 Before setting up Acadbot, ensure you have the following installed:
@@ -37,10 +37,10 @@ Users can search syllabus-specific study materials, find relevant topics, and ge
 
 ### Future Scope
 
--**Expansion to More Universities & Boards**: Supporting more institutions with diverse syllabus content.
--**Integration with Learning Management Systems (LMS)**: Allowing seamless access within educational platforms.
--**Multi-Language Support**: Providing study materials and chatbot responses in different languages.
--**Advanced AI Models**: Implementing fine-tuned models for better accuracy and contextual understanding.
+- **Expansion to More Universities & Boards**: Supporting more institutions with diverse syllabus content.
+- **Integration with Learning Management Systems (LMS)**: Allowing seamless access within educational platforms.
+- **Multi-Language Support**: Providing study materials and chatbot responses in different languages.
+- **Advanced AI Models**: Implementing fine-tuned models for better accuracy and contextual understanding.
 
 ### Installation
 1. Clone the repository to your local machine:
